@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ReproductorMusicaGloria/1.0.0": {
+        "runtime": {
+          "ReproductorMusicaGloria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReproductorMusicaGloria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
